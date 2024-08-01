@@ -13,3 +13,4 @@ public class LooseCouplingApp {
         userInformation2.getUserDatabase();
     }
 }
+

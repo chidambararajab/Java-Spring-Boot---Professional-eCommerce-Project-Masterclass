@@ -1,7 +1,7 @@
 package com.loose.coupling;
 
 public class UserInformation {
-    public UserDatabase userDatabase;
+    private UserDatabase userDatabase;
 
     public UserInformation(UserDatabase userDatabase) {
         this.userDatabase = userDatabase;
